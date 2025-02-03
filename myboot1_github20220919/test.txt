@@ -1,0 +1,1 @@
+vs code에서 gmail계정의 레포지터리에 push할 예정입니다다
